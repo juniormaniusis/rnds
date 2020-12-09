@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{93:function(o){o.exports=JSON.parse('{"allTagsPath":"/rnds/blog/tags","slug":"comunicado","name":"comunicado","count":1,"permalink":"/rnds/blog/tags/comunicado"}')}}]);
