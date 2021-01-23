@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[55],{113:function(s){s.exports=JSON.parse('{"allTagsPath":"/rnds/blog/tags","slug":"boas-vindas","name":"boas-vindas","count":1,"permalink":"/rnds/blog/tags/boas-vindas"}')}}]);
