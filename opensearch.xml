@@ -4,8 +4,8 @@
   <ShortName>RNDS</ShortName>
   <Description>Search RNDS</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://kyriosdata.github.io/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://kyriosdata.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://kyriosdata.github.io/opensearch.xml" />
-  <moz:SearchForm>https://kyriosdata.github.io</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://kyriosdata.github.io/rnds/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://kyriosdata.github.io/rnds/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://kyriosdata.github.io/rnds/opensearch.xml" />
+  <moz:SearchForm>https://kyriosdata.github.io/rnds/</moz:SearchForm>
 </OpenSearchDescription>
