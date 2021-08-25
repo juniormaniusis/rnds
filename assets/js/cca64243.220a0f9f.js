@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguia=self.webpackChunkguia||[]).push([[9369],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Conecte SUS Profissional","permalink":"/rnds/blog/2020/12/01/profissional"},{"title":"Seja bem-vindo!","permalink":"/rnds/blog/welcome"}]}')}}]);

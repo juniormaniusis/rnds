@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>RNDS Blog</title>
-        <link>https://kyriosdata.github.io/rnds/blog</link>
+        <link>https://kyriosdata.github.io/blog</link>
         <description>RNDS Blog</description>
         <lastBuildDate>Tue, 01 Dec 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>

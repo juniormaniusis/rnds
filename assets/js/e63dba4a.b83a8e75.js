@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguia=self.webpackChunkguia||[]).push([[3340],{6562:function(a){a.exports=JSON.parse('{"allTagsPath":"/rnds/blog/tags","slug":"comunicado","name":"comunicado","count":1,"permalink":"/rnds/blog/tags/comunicado"}')}}]);

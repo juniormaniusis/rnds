@@ -1,1 +1,0 @@
-(self.webpackChunkguia=self.webpackChunkguia||[]).push([[3749],{7819:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/rnds/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
